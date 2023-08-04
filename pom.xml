@@ -13,8 +13,8 @@
     <quarkus.platform.version>2.16.8.Final</quarkus.platform.version>
     <kogito.bom.group-id>org.kie.kogito</kogito.bom.group-id>
     <kogito.bom.artifact-id>kogito-bom</kogito.bom.artifact-id>
-    <kogito.bom.version>2.0.0-SNAPSHOT</kogito.bom.version>
-    <version.org.kie.kogito>2.0.0-SNAPSHOT</version.org.kie.kogito>
+    <kogito.bom.version>1.39.0.Final</kogito.bom.version>
+    <version.org.kie.kogito>1.39.0.Final</version.org.kie.kogito>
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
   </properties>
